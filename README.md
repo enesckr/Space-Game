@@ -1,4 +1,7 @@
 # Space-Game
+#### TR
+Java dili ve Swing UI kullanılarak nesne yönelimli programlama hedefli 3 kişilik ekip halinde yazılmış bir okul projesidir. Ana karakterin karşısına çıkan canavarları mermi ve ışınla yok ettiği masaüstü 2D bir oyundur.
+#### EN
 It is a school project written as a team of 3 people with object oriented programming using Java language and Swing UI. It is a 2D desktop game in which the main character destroys the monsters he encounters with bullets and rays.
 
 ## Class Diagram - UML
